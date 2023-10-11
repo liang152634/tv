@@ -1,0 +1,84 @@
+//接口全部来源于网络，接口失效我会在有时间时不定时更新，更新不及时请各位小主勿怪。感谢您的理解！！！
+//接口地址：https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/cangku1.json
+//接口排名不分先后（个人使用习惯），接口名称前面的小图标也是为了美观和个人喜好添加的，请各位大佬勿怪！！！
+
+{
+    "urls": [
+        {
+            "name": "0️⃣骚0",
+            "url": "https://xhdwc.tk/0"
+        },
+        {
+            "name": "✨精简",
+            "url": "https://codeberg.org/jgfx/TVBox2/raw/branch/master/Json/jgpro.json"
+        },
+        {
+            "name": "🅱云星B站",
+            "url": "http://itvbox.cc/tvbox/云星日记/bili.m3u8"
+        },
+        {
+            "name": "🌒月光宝盒影视",
+            "url": "https://jihulab.com/ygbh1/box/-/raw/main/ys.json"
+        },
+        {
+            "name": "🌪南风",
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
+        },
+        {
+            "name": "🍀俊宇",
+            "url": "http://home.jundie.top:81/top98.json"
+        },
+        {
+            "name": "🍃吾爱",
+            "url": "http://52bsj.vip:98/wuai"
+        },
+        {
+            "name": "🍅小苹果",
+            "url": "https://agit.ai/cyl518/a/raw/branch/master/bjtv.json"
+        },
+        {
+            "name": "🍯蜂蜜",
+            "url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"
+        },
+        {
+            "name": "🎀元兴",
+            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json"
+        },
+        {
+            "name": "🏡潇洒",
+            "url": "https://la.kstore.space/download/2863/01.txt"
+        },
+        {
+            "name": "🐕二哈",
+            "url": "https://codeberg.org/jgfx/2hacc/raw/branch/main/tvbox.json"
+        },
+        {
+            "name": "🐥胖鸭",
+            "url": "https://agit.ai/cyl518/yl/raw/branch/master/pytv.json"
+        },
+        {
+            "name": "🐯于氏影业",
+            "url": "https://agit.ai/sejinan/app/raw/branch/box/yu"
+        },
+        {
+            "name": "👭人人影视",
+            "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/影视.txt"
+        },
+        {
+            "name": "💦巧技",
+            "url": "http://pandown.pro/tvbox/tvbox.json"
+        },
+        {
+            "name": "🔘精选",
+            "url": "https://codeberg.org/jgfx/box88/raw/branch/master/jg.txt"
+        },
+        {
+            "name": "🚚运输车",
+            "url": "https://weixine.net/ysc.json"
+        },
+        {
+            "name": "🥒黄瓜",
+            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json"
+        }
+    ]
+}
