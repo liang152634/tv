@@ -1,22 +1,8 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="" tvg-name="ssis-129河北彩花" tvg-logo="https://i.87251865.com/20231006/854231c76c2ce01f971eb3a4957d8e36.jps" group-title="河北彩花YYDS_0595",ssis-129河北彩花
+#EXTINF:-1 tvg-name="ssis-129",ssis-129河北彩花
 https://v6.chuangshi1997.top/video/20231007/VYmto3Kk/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ssis-158河北彩花" tvg-logo="https://i.87251865.com/20231006/854231c76c2ce01f971eb3a4957d8e36.jps" group-title="河北彩花YYDS_0595",ssis-158河北彩花
+#EXTINF:-1 tvg-name="ssis-158",ssis-158河北彩花
 https://v6.chuangshi1997.top/video/20231007/lZsoaQOQ/2000kb/hls/index.m3u8
-#EXTINF:-1,group-title="河北彩花YYDS_0595",ssis-194河北彩花
-#EXTINF:-1 tvg-id="" tvg-name="ssis-194河北彩花" tvg-logo="https://i.87251865.com/20231006/854231c76c2ce01f971eb3a4957d8e36.jps" group-title="河北彩花YYDS_0595",ssis-194河北彩花
+#EXTINF:-1 tvg-name="ssis-194",ssis-194河北彩花
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/667f6ab4/index.m3u8
-#EXTINF:-1,group-title="河北彩花YYDS_0595",SSNI-216河北彩花
-#EXTINF:-1 tvg-id="" tvg-name="SSNI-216河北彩花" tvg-logo="https://i.87251865.com/20231006/854231c76c2ce01f971eb3a4957d8e36.jps" group-title="河北彩花YYDS_0595",SSNI-216河北彩花
-http://videocdn.dlyilian.com:8091/20181231/SKLN0TRY216/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ssis-252河北彩花" tvg-logo="https://i.87251865.com/20231006/854231c76c2ce01f971eb3a4957d8e36.jps" group-title="河北彩花YYDS_0595",ssis-252河北彩花
-https://play92332.com/20211205/gWRZcJHT/1703kb/hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SSNI-266河北彩花" tvg-logo="https://i.87251865.com/20231006/854231c76c2ce01f971eb3a4957d8e36.jps" group-title="河北彩花YYDS_0595",SSNI-266河北彩花
-http://videocdn.dlyilian.com:8091/20190101/SQKI4GRL266/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ssis-280河北彩花" tvg-logo="https://i.87251865.com/20231006/854231c76c2ce01f971eb3a4957d8e36.jps" group-title="河北彩花YYDS_0595",ssis-280河北彩花
-https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/71518e15/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ssis-308河北彩花" tvg-logo="https://i.87251865.com/20231006/854231c76c2ce01f971eb3a4957d8e36.jps" group-title="河北彩花YYDS_0595",ssis-308河北彩花
-https://t16.cdn2020.com:12340/video/m3u8/2022/02/16/4ca0e556/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ssis-361河北彩花" tvg-logo="https://i.87251865.com/20231006/854231c76c2ce01f971eb3a4957d8e36.jps" group-title="河北彩花YYDS_0595",ssis-361河北彩花
-https://t17.cdn2020.com:12341/video/m3u8/2022/03/29/5e6c7ad8/index.m3u8
 
